@@ -4,7 +4,7 @@
   "description": "API that will server as backend CMS for small Blogs",
   "main": "server.js",
   "scripts": {
-    "test": "NA"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,6 @@
     "express": "^4.17.1",
     "jest": "^27.0.4",
     "mongoose": "^5.12.13"
-  }
+  },
+  "devDependencies": {}
 }
