@@ -1,0 +1,27 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "API that will server as backend CMS for small Blogs",
+  "main": "server.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfallesen/blog-api.git"
+  },
+  "keywords": [
+    "Blog"
+  ],
+  "author": "Mike Fallesen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfallesen/blog-api/issues"
+  },
+  "homepage": "https://github.com/mfallesen/blog-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.0.4",
+    "mongoose": "^5.12.13"
+  }
+}
